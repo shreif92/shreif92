@@ -10,7 +10,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1359WLCgunAW1CydmeflvpfWB555_HzAJ/view](https://drive.google.com/file/d/1359WLCgunAW1CydmeflvpfWB555_HzAJ/view)
   
-- 📄 My certificates  [https://drive.google.com/file/d/1359WLCgunAW1CydmeflvpfWB555_HzAJ/view](https://drive.google.com/file/d/1359WLCgunAW1CydmeflvpfWB555_HzAJ/view](https://drive.google.com/drive/folders/15S6moSWTJGQ4EKuGVQzXYp3MI56R4-jy)
 
 - ⚡ Fun fact: **Full-Time Engineer, Part-Time Human! 😁**
 
