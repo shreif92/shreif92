@@ -1,6 +1,8 @@
+<p align="center">
+  <img src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif" alt="cover image" style="width: 100%; height: auto;">
+</p>
 <h1 align="center">Hi 👋, I'm Sherif Abdullah</h1>
 <h3 align="center">Back-End Developer (Django - Python) | Educational Technology Specialist</h3>
-<img src="https://pin.it/3FdQYLBXB" alt="coding img" width="300" height="200">
 
 
 
